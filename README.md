@@ -1,16 +1,16 @@
 # Weather App
 
-##Description
+## Description
 
 Simple weather app using OpenWeatherMap API.
 
-##Technologies
+## Technologies
 
-- HTML.
-- CSS.
-- Bootstrap.
-- OOP JavaScript (ES6).
-- NodeJS
-- Webpack.
-- LocalStorage.
-- OpenWeatherMap API.
+* HTML.
+* CSS.
+* Bootstrap.
+* OOP JavaScript (ES6).
+* NodeJS
+* Webpack.
+* LocalStorage.
+* OpenWeatherMap API.
